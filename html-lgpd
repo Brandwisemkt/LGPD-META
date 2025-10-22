@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Política de Privacidade - Vitalclean</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; background: #f8f9fa; color: #333; }
+    header { background: #0e5cad; color: white; padding: 2rem; text-align: center; }
+    main { max-width: 800px; margin: 2rem auto; background: white; padding: 2rem; border-radius: 8px; }
+    h1, h2 { color: #0e5cad; }
+    h1 { margin-top: 0; }
+    p { margin-bottom: 1rem; }
+    ul { margin-left: 1.5rem; }
+    footer { text-align: center; font-size: 0.9rem; color: #555; padding: 2rem 0; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Política de Privacidade</h1>
+    <p>Vitalclean – Soluções Para Higiene Profissional</p>
+    <p>Última atualização: 22/10/2025</p>
+  </header>
+  <main>
+    <h2>1. Controladora e Operadora</h2>
+    <p><strong>Controladora (Cliente):</strong> Vitalclean – Soluções Para Higiene Profissional, CNPJ 21.186.694/0001-73, Rua Amazonas, 1706.<br>
+    <strong>Operadora (Prestadora de Serviço):</strong> Lara Santos Gondim, CNPJ 60.161.259/0001-46, Rua Henriqueta Galeno 1040.<br>
+    <strong>Encarregado (DPO):</strong> contato@brandwisemkt.com</p>
+
+    <h2>2. Dados coletados</h2>
+    <ul>
+      <li>Identificação e contato: nome, telefone/WhatsApp, e-mail, cargo, empresa, CNPJ, endereço.</li>
+      <li>Interações: mensagens do WhatsApp Business API (texto, mídia, metadados, status de entrega), histórico de atendimento, tags e observações no CRM.</li>
+      <li>Comercial/Financeiro: propostas, pedidos, contratos (DocSales), ordens de serviço (Field Control), notas fiscais, boletos, faturas e dados ERP (Omie).</li>
+      <li>Técnicos/Logs: IP, eventos de webhook, data/hora, IDs de mensagem, IDs de lead/negócio, status de jobs/rotas.</li>
+    </ul>
+
+    <h2>3. Bases legais (LGPD)</h2>
+    <p>Tratamos dados com fundamento nos arts. 7º e 11º da LGPD:</p>
+    <ul>
+      <li>Execução de contrato ou procedimentos preliminares;</li>
+      <li>Legítimo interesse do Controlador;</li>
+      <li>Cumprimento de obrigação legal/regulatória;</li>
+      <li>Consentimento, quando exigido pela Meta/WhatsApp.</li>
+    </ul>
+
+    <h2>4. Finalidades do tratamento</h2>
+    <ul>
+      <li>Atendimento comercial e suporte.</li>
+      <li>Operação de serviços (Field Control).</li>
+      <li>Faturamento e cobrança (Omie).</li>
+      <li>Análise e melhoria de performance.</li>
+      <li>Segurança e prevenção a fraudes.</li>
+    </ul>
+
+    <h2>5. Compartilhamento e operadores</h2>
+    <p>Compartilhamos dados com: Meta/WhatsApp, Kommo, Field Control, Omie, provedores de nuvem e DocSales (quando aplicável), todos com cláusulas de confidencialidade e segurança.</p>
+
+    <h2>6. Transferências internacionais</h2>
+    <p>Podem ocorrer transferências para servidores no exterior (Meta, nuvem). São adotadas garantias adequadas conforme art. 33 e seguintes da LGPD.</p>
+
+    <h2>7. Retenção e descarte</h2>
+    <p>Os dados são mantidos pelo tempo necessário para cumprir as finalidades e obrigações legais (ex.: documentos fiscais por até 5 anos), com posterior anonimização ou eliminação segura.</p>
+
+    <h2>8. Direitos do titular</h2>
+    <p>Você pode solicitar: confirmação, acesso, correção, anonimização, portabilidade, eliminação, informações sobre compartilhamentos e revogação de consentimento. Canal: <strong>contato@brandwisemkt.com</strong>.</p>
+
+    <h2>9. Segurança da informação</h2>
+    <p>Aplicamos criptografia, controle de acesso, auditorias, backups e segregação de ambientes. Em incidentes relevantes, seguimos o art. 48 da LGPD.</p>
+
+    <h2>10. Cookies e tecnologias similares</h2>
+    <p>Podemos usar cookies estritamente necessários, analíticos e funcionais nos sites relacionados. Automatizações de WhatsApp não dependem de cookies do usuário final.</p>
+
+    <h2>11. Regras do WhatsApp Business API</h2>
+    <ul>
+      <li>Mensagens apenas com opt-in válido.</li>
+      <li>Respeito a palavras-chave de opt-out (ex.: “PARAR”).</li>
+      <li>Proibição de spam e conteúdo proibido.</li>
+    </ul>
+
+    <h2>12. Alterações desta Política</h2>
+    <p>Podemos atualizar esta Política periodicamente. A nova versão trará a data de vigência.</p>
+
+    <h2>13. Canal de contato</h2>
+    <p>E-mail: <strong>contato@brandwisemkt.com</strong><br>
+    Telefone/WhatsApp: <strong>(85) 98755-2823</strong></p>
+
+    <h2>14. Exclusão de dados</h2>
+    <p>Titulares podem solicitar exclusão pelo canal acima. Para dados em plataformas terceiras (Kommo, Field Control, Omie, Meta/WhatsApp), a exclusão seguirá prazos e capacidades de cada sistema.</p>
+  </main>
+  <footer>
+    <p>© 2025 Vitalclean – Soluções Para Higiene Profissional | Lara Santos Gondim</p>
+  </footer>
+</body>
+</html>
